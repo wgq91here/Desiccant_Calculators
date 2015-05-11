@@ -41,3 +41,27 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Other Own Project files
+www/testAPP2_www.iml
+www/.idea/
+
+# Non-project-specific build files:
+platforms/android/build.xml
+platforms/android/local.properties
+platforms/android/gradlew
+platforms/android/gradlew.bat
+platforms/android/gradle
+# Ant builds
+platforms/android/ant-build
+platforms/android/ant-gen
+# Eclipse builds
+platforms/android/gen
+platforms/android/out
+# Gradle builds
+platforms/android/build
+
+platforms/android/assets/www/testAPP2_www.iml
+
+platforms/android/cordova/
+platforms/android/
